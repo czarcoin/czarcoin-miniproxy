@@ -1,4 +1,4 @@
-# storj-miniproxy
+# czarcoin-miniproxy
 
 This app is a mini Express app "gateway" to the Storj library built using libstorj.
 
